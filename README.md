@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Sarbjot Mann, and I am a Fourth Year Computing Science Student. 
+
+### Technology and Tools 
+
+|Technical Languages| ![](https://img.shields.io/badge/Python3.x-informational?style=flat&logo=Python&logoColor=black&color=2bbc8a) | ![](https://img.shields.io/badge/Java-informational?style=flat&logo=Java&logoColor=black&color=2bbc8a)    |  ![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=MySQL&logoColor=black&color=2bbc8a)   | ![](https://img.shields.io/badge/HTML-informational?style=flat&logo=HTML5&logoColor=black&color=2bbc8a)    |  ![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=black&color=2bbc8a)   | ![](https://img.shields.io/badge/C-C++-informational?style=flat&logo=C&logoColor=black&color=2bbc8a)    |  ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=black&color=2bbc8a)   |
+|----------------------|---|---|---|---|---|---|---|
+|Tools and Technology |![](https://img.shields.io/badge/Git-informational?style=flat&logo=Git&logoColor=black&color=2bbc8a)   | ![](https://img.shields.io/badge/Heroku-informational?style=flat&logo=Heroku&logoColor=black&color=2bbc8a)  | ![](https://img.shields.io/badge/Visual-Studio-informational?style=flat&logo=Visual-Studio&logoColor=black&color=2bbc8a) | ![](https://img.shields.io/badge/Android-Studio-informational?style=flat&logo=Android&logoColor=black&color=2bbc8a) |  ![](https://img.shields.io/badge/IntellJ-informational?style=flat&logo=IntelliJ-IDEA&logoColor=black&color=2bbc8a) | ![](https://img.shields.io/badge/Sublime-informational?style=flat&logo=Sublime-text&logoColor=black&color=2bbc8a)   |   |   |
+|Operating Systems|   ![](https://img.shields.io/badge/Mac-OS-informational?style=flat&logo=Apple&logoColor=black&color=2bbc8a) | ![](https://img.shields.io/badge/Linux-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=black&color=2bbc8a)    |  ![](https://img.shields.io/badge/Windows-7/8/10-informational?style=flat&logo=Windows&logoColor=black&color=2bbc8a)   | ![](https://img.shields.io/badge/Android-informational?style=flat&logo=Android&logoColor=black&color=2bbc8a)    |  
+
+
+
+### Github Stats
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarbjotm&layout=compact&theme=dark" />  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sarbjotm&show_icons=true&theme=dark" /> 
+
+
+
+
