@@ -28,7 +28,7 @@ My name is Sarbjot Mann, and I am a Fourth Year Computing Science Student.
 
 ### Github Stats
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarbjotm&layout=compact&theme=dark" /> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarbjotm&layout=compact&theme=dark" /> 
  </p>
  <p align="center">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sarbjotm&show_icons=true&theme=dark" /> 
