@@ -19,7 +19,7 @@ My name is Sarbjot Mann, and I am a Fourth Year Computing Science Student.
 
 ### What I am currently working on
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SFU-Dodo-Club&repo=Kiwi&theme=dark)](https://github.com/SFU-Dodo-Club/Kiwi)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SFU-Dodo-Club&repo=Dr.Napkin&theme=blue)](https://github.com/SFU-Dodo-Club/Dr.Napkin)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SFU-Dodo-Club&repo=Dr.Napkin&theme=radical)](https://github.com/SFU-Dodo-Club/Dr.Napkin)
 ### Technology and Tools 
 
 |Programming Languages| ![](https://img.shields.io/badge/Python3.x-informational?style=flat&logo=Python&logoColor=black&color=2bbc8a) | ![](https://img.shields.io/badge/Java-informational?style=flat&logo=Java&logoColor=black&color=2bbc8a)    |  ![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=MySQL&logoColor=black&color=2bbc8a)   | ![](https://img.shields.io/badge/HTML-informational?style=flat&logo=HTML5&logoColor=black&color=2bbc8a)    |  ![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=black&color=2bbc8a)   | ![](https://img.shields.io/badge/C-C++-informational?style=flat&logo=C&logoColor=black&color=2bbc8a)    |  ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=black&color=2bbc8a)   |
