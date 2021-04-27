@@ -18,9 +18,10 @@ Here are some ideas to get you started:
 My name is Sarbjot Mann, and I am a Fourth Year Computing Science Student. 
 
 ### What I am currently working on
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SFU-Dodo-Club&repo=Kiwi&theme=dark)](https://github.com/SFU-Dodo-Club/Kiwi)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SFU-Dodo-Club&repo=Dr.Napkin&theme=dark)](https://github.com/SFU-Dodo-Club/Dr.Napkin)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SFU-Dodo-Club&repo=Mista&theme=dark)](https://github.com/SFU-Dodo-Club/Mista)
+- Kiwi: A discord bot used by SFU Dodo Club, tracks a users role count, economy and wishes the user a happy birthday. Also has built in minigames such as blackjack and cup shuffle. Also has the ability to tell you the current weather, your horoscope and manipulate text inputs.  
+- Mista: A discord bot used by SFU Dodo Club, who will play music for users in a voice channel. Users can queue songs, and use skip/loop commands
+- Mini Web Server: A basic web server using sockets and without using http libaries 
+- Training Adversarial Neural Networks To Synthesize SWI-Type MRI Scans: Generate missing MRI pulse sequences with a generative adversarial netwrk
 
 As well as two privated projects which will be avaliable at the end of April 2021.
 ### Technology and Tools 
