@@ -23,7 +23,6 @@ My name is Sarbjot Mann, and I am a Fourth Year Computing Science Student.
 - Mini Web Server: A basic web server using sockets and without using http libaries 
 - Training Adversarial Neural Networks To Synthesize SWI-Type MRI Scans: Generate missing MRI pulse sequences with a generative adversarial netwrk
 
-As well as two privated projects which will be avaliable at the end of April 2021.
 ### Technology and Tools 
 
 |Programming Languages| ![](https://img.shields.io/badge/Python3.x-informational?style=flat&logo=Python&logoColor=black&color=2bbc8a) | ![](https://img.shields.io/badge/Java-informational?style=flat&logo=Java&logoColor=black&color=2bbc8a)    |  ![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=MySQL&logoColor=black&color=2bbc8a)   | ![](https://img.shields.io/badge/HTML-informational?style=flat&logo=HTML5&logoColor=black&color=2bbc8a)    |  ![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=black&color=2bbc8a)   | ![](https://img.shields.io/badge/C-C++-informational?style=flat&logo=C&logoColor=black&color=2bbc8a)    |  ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=black&color=2bbc8a)   |
