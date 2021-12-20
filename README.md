@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Sarbjot Mann, and I am a Fourth Year Computing Science Student. 
+My name is Sarbjot Mann, and I am a currently in my last semester at SFU as a  Computing Science Student. 
 
 ### What I am currently working on
 - Kiwi: A discord bot used by SFU Dodo Club, tracks a users role count, economy and wishes the user a happy birthday. Also has built in minigames such as blackjack and cup shuffle. Also has the ability to tell you the current weather, your horoscope and manipulate text inputs.  
