@@ -18,9 +18,8 @@ Here are some ideas to get you started:
 My name is Sarbjot Mann, and I am a currently in my last semester at SFU as a  Computing Science Student. 
 
 ### What I am currently working on
-- Kiwi: A discord bot used by SFU Dodo Club, tracks a users role count, economy and wishes the user a happy birthday. Also has built in minigames such as blackjack and cup shuffle. Also has the ability to tell you the current weather, your horoscope and manipulate text inputs.  
-- Mista: A discord bot used by SFU Dodo Club, who will play music for users in a voice channel. Users can queue songs, and use skip/loop commands
-- Training Adversarial Neural Networks To Synthesize SWI-Type MRI Scans: Generate missing MRI pulse sequences with a generative adversarial network
+- Two Step Model: Creating a Two Step Lexical Access models to analyze speech errors   
+- Sudoku Solver: Comparing and constrating different Sudoku solvers and analyzing their time efficency and finding better solutions
 
 ### Technology and Tools 
 
