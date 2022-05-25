@@ -15,11 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Sarbjot Mann, and I am a currently in my last semester at SFU as a  Computing Science Student. 
+My name is Sarbjot Mann, and I graduated from Simon Fraser University, with a Bachelor of Science - Major in Computing Science 
 
-### What I am currently working on
-- Two Step Model: Creating a Two Step Lexical Access models to analyze speech errors   
-- Sudoku Solver: Comparing and constrating different Sudoku solvers and analyzing their time efficency and finding better solutions
 
 ### Technology and Tools 
 
